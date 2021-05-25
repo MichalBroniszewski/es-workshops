@@ -1,0 +1,17 @@
+{
+  "name": "private/es-workshops",
+  "description": "event storming workshops",
+  "authors": [
+    {
+      "name": "Michał Broniszewski",
+      "email": "prodev.michal.broniszewski@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
